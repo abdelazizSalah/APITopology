@@ -83,7 +83,7 @@ git clone https://github.com/abdelazizSalah/APITopology
 ## 📷 Screenshots
 
 #### Read JSON file 
-<img src="APITopology\screenshots/ReadingFromTopo.png" alt="2">
+<img src="screenshots/ReadingFromTopo.png" alt="2" height = "300" width = "700">
 
 #### Write JSON
 <img src="screenshots/WritingIntoJson" alt="3" height="300" width="700">
