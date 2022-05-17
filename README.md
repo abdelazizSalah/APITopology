@@ -102,3 +102,6 @@ git clone https://github.com/abdelazizSalah/APITopology
  
 #### Testing
 <img src="screenshots/AutomaticTestingAllFunctionalities.png" alt="8" height="400" width="700">
+
+## Exiting
+<img src="screenshots/Exitted.png" alt="8" height="400" width="700">
