@@ -42,7 +42,7 @@ This class contains the memory of the API as a map of string which is the topolo
 * Each functionality is validated completely in case a topology/node not found for example, etc...
 
 ### Topology
- * This class is used to create topologies and connect devices with each others
+* This class is used to create topologies and connect devices with each others
 
 * it has a vector which contains the Devices which are stored and connected in each  topology
 
@@ -83,7 +83,7 @@ git clone https://github.com/abdelazizSalah/APITopology
 ## 📷 Screenshots
 
 #### Read JSON file 
-<img src="screenshots/ReadingFromTopo" alt="2" height="600" width="700">
+<img src="APITopology\screenshots/ReadingFromTopo" alt="2" height="600" width="700">
 
 #### Write JSON
 <img src="screenshots/WritingIntoJson" alt="3" height="300" width="700">
