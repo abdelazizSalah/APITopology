@@ -29,7 +29,7 @@ a given topology.
 
 ### API
 
-This class contains the memory of the API as a map of string which is the topology ID as a key of the map and pointer to topology as a value .
+This class contains the memory of the API as a map of string which is the topology ID as a key of the map and pointer to topology as a value.
 
 * This class contains the functions of the API :-
 	- bool ReadFromJson(string filePath);
@@ -83,7 +83,7 @@ git clone https://github.com/abdelazizSalah/APITopology
 ## 📷 Screenshots
 
 #### Read JSON file 
-<img src="APITopology\screenshots/ReadingFromTopo" alt="2">
+<img src="APITopology\screenshots/ReadingFromTopo.png" alt="2">
 
 #### Write JSON
 <img src="screenshots/WritingIntoJson" alt="3" height="300" width="700">
