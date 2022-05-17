@@ -83,13 +83,13 @@ git clone https://github.com/abdelazizSalah/APITopology
 ## 📷 Screenshots
 
 #### Read JSON file 
-<img src="screenshots/ReadingFromTopo.png" alt="2" height = "500" width = "700">
+<img src="screenshots/ReadingFromTopo.png" alt="2" height = "300" width = "700">
 
 #### Write JSON
 <img src="screenshots/WritingIntoJson.png" alt="3" height="300" width="700">
 
 #### Query Topologies
-<img src="screenshots/CheckingTopologiesInMemory.png" alt="1" height="600" width="700">
+<img src="screenshots/CheckingTopologiesInMemory.png" alt="1" height="300" width="700">
 
 #### Delete a topology 
 <img src="screenshots/DeletingTopology.png" alt="4" height="600" width="700">
@@ -98,7 +98,7 @@ git clone https://github.com/abdelazizSalah/APITopology
 <img src="screenshots/CheckDevicesInCertainTopology.png" alt="5" height="800" width="700">
 
 #### Query devices with netlist node
-<img src="screenshots/CheckDevicesConnectedToCertainNode.png" alt="6" height="800" width="700">
+<img src="screenshots/CheckDevicesConnectedToCertainNode.png" alt="6" height="300" width="700">
  
 #### Testing
-<img src="screenshots/AutomaticTestingAllFunctionalities.png" alt="8" height="600" width="700">
+<img src="screenshots/AutomaticTestingAllFunctionalities.png" alt="8" height="300" width="700">
