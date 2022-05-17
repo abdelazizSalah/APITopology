@@ -36,8 +36,8 @@ void ApplicationManager::Start()
 			break;
 		case 2:
 			// writing into the Json File
-			cout << "Enter the Topology ID you want to write: (name).json \n"; cin >> TopID; 
-			cout << "Enter the output file name you want: \n"; cin >> filepath; 
+			cout << "Enter the Topology ID you want to write: \n"; cin >> TopID; 
+			cout << "Enter the output file name you want: (name).json  \n"; cin >> filepath; 
 			if (api.WriteToJson(TopID, filepath))
 				cout << "Topology has been written successfully!\n";
 			else
@@ -93,7 +93,12 @@ void ApplicationManager::Start()
 			exit = true; 
 			break; 
 		default:
-			cout << "Please choose number from 1-8 only\n";
+			//Clearing the input buffer to avoid the bad input case such as inserting character instead on integer
+			cin.clear();
+			if (cin) {
+				cin.ignore(std::cin.rdbuf()->in_avail()); // ignore what is buffered
+			}
+			cout << "Wrong Input!\n";
 			break;
 		}
 		if (exit)
