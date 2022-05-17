@@ -1,2 +1,9 @@
-﻿  ApplicationManager.cpp
+﻿  API.cpp
+C:\GitHub\APITopology\APITopology\API.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+C:\GitHub\APITopology\APITopology\API.cpp(67,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ApplicationManager.cpp
+  Testing.cpp
+  Topology.cpp
+  main.cpp
+  Generating Code...
   APITopology.vcxproj -> C:\GitHub\APITopology\x64\Debug\APITopology.exe
