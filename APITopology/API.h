@@ -89,7 +89,7 @@ public:
 	vector<Device *> NodeDevices(string TopID, string NodeID);
 
 	/**
-	 * @brief supplimentary funtion to check whethere certain topology exists in the memory or not
+	 * @brief utility funtion to check whethere certain topology exists in the memory or not
 	 *
 	 * @param TopID  which represents the id of the topology from which we need to get its devices
 	 * @return true if it exists
