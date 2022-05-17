@@ -51,7 +51,7 @@ This class contains the memory of the API as a map of string which is the topolo
 *  This Class is used as an abstract class for 2 other classes which are two terminal devices and three terminal devices
 * in which I have implemented the common functions for any device
 
-# Two Terminal Device
+### Two Terminal Device
 * This class inherts from the Device class and derives the Resistor class 
 
 ### Resistor
@@ -65,7 +65,7 @@ This class contains the memory of the API as a map of string which is the topolo
  
 * The NMOS inherits from class Three Terminal device and overrides function printDev() to add NMOS as its type
 
-# PMOS
+### PMOS
 
 * The PMOS inherits from class Three Terminal device and overrides function printDev() to add PMOS as its type
 
