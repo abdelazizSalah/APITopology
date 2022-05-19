@@ -16,7 +16,7 @@ I chose c++ because it is a powerful language for dealing with pointers and oop 
 a given topology.
 
 
-# Class Structure
+# Classes Structure
 
 <img src="screenshots/ClassesHirarichy.png" alt="Class Hierarchy">
 
