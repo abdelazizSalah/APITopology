@@ -33,12 +33,12 @@ a given topology.
 This class contains the memory of the API as a map of string which is the topology ID as a key of the map and pointer to topology as a value.
 
 * This class contains the functions of the API :-
-	- bool ReadFromJson(string filePath);
-	- bool WriteToJson(string TopID, string outFileName);
-	- bool getTopologiesInMemoryQuere();
-	- bool DeleteTopology(string TopID);
-	- vector<Device *> DevicesInTopology(string TopID);
-	- vector<Device *> NodeDevices(string TopID, string NodeID);
+	- ReadFromJson
+	- WriteToJson
+	- getTopologiesInMemoryQuere
+	- DeleteTopology
+	- DevicesInTopology
+	- NodeDevices
 
 * Each functionality is validated completely in case a topology/node not found for example, etc...
 
