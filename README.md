@@ -4,7 +4,8 @@
 
 # 📙 About
 An API library which provides the functionality to access, manage and store device topologies.
-
+built with OOP concept using C++ language and json libraries for dealing with json files, 
+I chose c++ because it is a powerful language for dealing with pointers and oop and I like coding with it.   
 # 📝 Description
 1. Read a topology from a given JSON file and store it in the memory.
 2. Write certain topology from the memory to a JSON file.
