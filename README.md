@@ -4,7 +4,8 @@
 
 # 📙 About
 An API library which provides the functionality to access, manage and store device topologies.
-
+built with OOP concept using C++ language and json libraries for dealing with json files, 
+I chose c++ because it is a powerful language for dealing with pointers and oop and I like coding with it.   
 # 📝 Description
 1. Read a topology from a given JSON file and store it in the memory.
 2. Write certain topology from the memory to a JSON file.
@@ -15,7 +16,7 @@ An API library which provides the functionality to access, manage and store devi
 a given topology.
 
 
-# Class Structure
+# Classes Structure
 
 <img src="screenshots/ClassesHirarichy.png" alt="Class Hierarchy">
 
@@ -32,12 +33,12 @@ a given topology.
 This class contains the memory of the API as a map of string which is the topology ID as a key of the map and pointer to topology as a value.
 
 * This class contains the functions of the API :-
-	- bool ReadFromJson(string filePath);
-	- bool WriteToJson(string TopID, string outFileName);
-	- bool getTopologiesInMemoryQuere();
-	- bool DeleteTopology(string TopID);
-	- vector<Device *> DevicesInTopology(string TopID);
-	- vector<Device *> NodeDevices(string TopID, string NodeID);
+	- ReadFromJson
+	- WriteToJson
+	- getTopologiesInMemoryQuere
+	- DeleteTopology
+	- DevicesInTopology
+	- NodeDevices
 
 * Each functionality is validated completely in case a topology/node not found for example, etc...
 
