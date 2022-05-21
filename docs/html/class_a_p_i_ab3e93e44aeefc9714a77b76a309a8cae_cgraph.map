@@ -1,0 +1,4 @@
+<map id="API::WriteToJson" name="API::WriteToJson">
+<area shape="rect" id="node1" title="Called when the user want to Write certain topology in a json file." alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node2" href="$class_a_p_i.html#a7a73ecaf115ee6686e73df6f2c983244" title="utility funtion to check whethere certain topology exists in the memory or not" alt="" coords="176,5,291,32"/>
+</map>

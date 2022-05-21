@@ -1,0 +1,7 @@
+<map id="ApplicationManager.h" name="ApplicationManager.h">
+<area shape="rect" id="node1" title="This class should handle the program and interact with the user and excute his commands." alt="" coords="155,5,302,32"/>
+<area shape="rect" id="node2" href="$_application_manager_8cpp.html" title=" " alt="" coords="5,80,167,107"/>
+<area shape="rect" id="node3" href="$_testing_8h.html" title="this class is used to automatically test the functionalities of the API" alt="" coords="191,80,266,107"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="this is the main file" alt="" coords="290,80,365,107"/>
+<area shape="rect" id="node4" href="$_testing_8cpp.html" title=" " alt="" coords="184,155,273,181"/>
+</map>

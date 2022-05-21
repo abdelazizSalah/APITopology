@@ -1,0 +1,7 @@
+<map id="Device::setType" name="Device::setType">
+<area shape="rect" id="node1" title=" " alt="" coords="213,81,328,108"/>
+<area shape="rect" id="node2" href="$class_device.html#a64ba12dcc5f4267486c5d545d04dcf68" title=" " alt="" coords="32,5,139,32"/>
+<area shape="rect" id="node3" href="$class_n_m_o_s.html#a7d4a147183b25e080cc2f84a654df692" title="Construct a new NMOS object." alt="" coords="31,56,139,83"/>
+<area shape="rect" id="node4" href="$class_p_m_o_s.html#af2ebc9833f496fe3710876e7e742b06a" title="Construct a new PMOS object." alt="" coords="31,107,139,133"/>
+<area shape="rect" id="node5" href="$class_resistance.html#aa6745b9dc1ce1ec8e3c7aec9ddfb558a" title="Construct a new Resistor object." alt="" coords="5,157,165,184"/>
+</map>

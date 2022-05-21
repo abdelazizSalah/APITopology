@@ -1,0 +1,8 @@
+<map id="nlohmann::basic_json::basic_json" name="nlohmann::basic_json::basic_json">
+<area shape="rect" id="node1" title="create an empty value with a given type" alt="" coords="201,136,349,177"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1basic__json.html#a0524486cd0b36a47448df882ec0d5e7b" title="Create a JSON value from an input in BSON format." alt="" coords="5,5,153,47"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1basic__json.html#a1d568ba1bd6978d80db42aa76626e2cf" title="create a JSON value from an input in CBOR format" alt="" coords="5,71,153,112"/>
+<area shape="rect" id="node4" href="$classnlohmann_1_1basic__json.html#a11458b7982adba51bc634f2f8c961e9b" title="create a JSON value from an input in MessagePack format" alt="" coords="5,136,153,177"/>
+<area shape="rect" id="node5" href="$classnlohmann_1_1basic__json.html#a1ed52b463d2ef14c85ed076467168c72" title="create a JSON value from an input in UBJSON format" alt="" coords="5,201,153,243"/>
+<area shape="rect" id="node6" href="$classnlohmann_1_1basic__json.html#a1be31ef2d2934d37a818083a4af44f99" title="add an object to an object" alt="" coords="5,267,153,308"/>
+</map>

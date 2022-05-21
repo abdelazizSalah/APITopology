@@ -1,0 +1,16 @@
+<map id="nlohmann::detail::parse_error::create" name="nlohmann::detail::parse_error::create">
+<area shape="rect" id="node1" title="create a parse error exception" alt="" coords="620,169,777,211"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1detail_1_1parser.html#a14338d8f3174601c0b2b7ef28752ab17" title="public parser interface" alt="" coords="411,39,572,80"/>
+<area shape="rect" id="node5" href="$classnlohmann_1_1basic__json.html#a81e0c41a4a9dff4df2f6973f7f8b2a83" title="applies a JSON patch" alt="" coords="417,136,565,177"/>
+<area shape="rect" id="node6" href="$classnlohmann_1_1detail_1_1binary__reader.html#ab94a54d6e595c2620b07589cf4116256" title=" " alt="" coords="411,201,571,243"/>
+<area shape="rect" id="node12" href="$classnlohmann_1_1detail_1_1parser.html#a14e34931965064b26e118eb72cbd5e25" title=" " alt="" coords="411,332,572,373"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1basic__json.html#a265a473e939184aa42655c9ccdf34e58" title="deserialize from a compatible input" alt="" coords="208,5,356,47"/>
+<area shape="rect" id="node4" href="$json_8hpp.html#ae90d59ab420a183cd5fb8588bdc95e06" title="user&#45;defined string literal for JSON values" alt="" coords="24,13,135,39"/>
+<area shape="rect" id="node7" href="$classnlohmann_1_1basic__json.html#a0524486cd0b36a47448df882ec0d5e7b" title="Create a JSON value from an input in BSON format." alt="" coords="208,71,356,112"/>
+<area shape="rect" id="node8" href="$classnlohmann_1_1basic__json.html#a1d568ba1bd6978d80db42aa76626e2cf" title="create a JSON value from an input in CBOR format" alt="" coords="208,136,356,177"/>
+<area shape="rect" id="node9" href="$classnlohmann_1_1basic__json.html#a11458b7982adba51bc634f2f8c961e9b" title="create a JSON value from an input in MessagePack format" alt="" coords="208,201,356,243"/>
+<area shape="rect" id="node10" href="$classnlohmann_1_1basic__json.html#a1ed52b463d2ef14c85ed076467168c72" title="create a JSON value from an input in UBJSON format" alt="" coords="208,267,356,308"/>
+<area shape="rect" id="node11" href="$classnlohmann_1_1basic__json.html#a8a3dd150c2d1f0df3502d937de0871db" title="generate SAX events" alt="" coords="208,332,356,373"/>
+<area shape="rect" id="node13" href="$classnlohmann_1_1detail_1_1parser.html#a20997b42262856935b60fc91bf05bf3f" title="public accept interface" alt="" coords="201,397,363,439"/>
+<area shape="rect" id="node14" href="$classnlohmann_1_1basic__json.html#a875585b0cb6133902066daccd7c9d420" title=" " alt="" coords="5,397,153,439"/>
+</map>

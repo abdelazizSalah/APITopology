@@ -1,0 +1,6 @@
+<map id="TwoTerminals::printDev" name="TwoTerminals::printDev">
+<area shape="rect" id="node1" title="virtual function to be overridden by the inherting classes in which each device can print its propert..." alt="" coords="5,56,160,83"/>
+<area shape="rect" id="node2" href="$class_two_terminals.html#afaab63b0c1ca35dff61846643f7dd039" title=" " alt="" coords="208,5,349,32"/>
+<area shape="rect" id="node3" href="$class_two_terminals.html#a516fb0d9adef8c563dfdf74e6d3d1065" title=" " alt="" coords="208,56,349,83"/>
+<area shape="rect" id="node4" href="$class_device.html#a039b572f22725f96e485650f13f9956c" title="virtual function to be overridden by the inherting classes in which each device can print its propert..." alt="" coords="221,107,336,133"/>
+</map>

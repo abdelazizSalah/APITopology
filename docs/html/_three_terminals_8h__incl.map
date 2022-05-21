@@ -1,0 +1,12 @@
+<map id="ThreeTerminals.h" name="ThreeTerminals.h">
+<area shape="rect" id="node1" title="I have created this class for further extensions such as adding any other 3 terminal devices such as ..." alt="" coords="235,5,357,32"/>
+<area shape="rect" id="node2" href="$_headers_8h.html" title="This file contains all the libraries which we are going to use in this project." alt="" coords="255,155,337,181"/>
+<area shape="rect" id="node10" href="$_device_8h.html" title="This Class is Used as an abstract class for 2 other classes which are Two Terminal Device Class and T..." alt="" coords="298,80,369,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,229,77,256"/>
+<area shape="rect" id="node4" title=" " alt="" coords="102,229,167,256"/>
+<area shape="rect" id="node5" title=" " alt="" coords="192,229,248,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="273,229,319,256"/>
+<area shape="rect" id="node7" title=" " alt="" coords="343,229,398,256"/>
+<area shape="rect" id="node8" title=" " alt="" coords="423,229,513,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="537,229,623,256"/>
+</map>

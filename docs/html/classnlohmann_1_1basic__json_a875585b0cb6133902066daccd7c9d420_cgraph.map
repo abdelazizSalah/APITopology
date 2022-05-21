@@ -1,0 +1,10 @@
+<map id="nlohmann::basic_json::accept" name="nlohmann::basic_json::accept">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,153,112"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1detail_1_1parser.html#a20997b42262856935b60fc91bf05bf3f" title="public accept interface" alt="" coords="201,71,363,112"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1detail_1_1parser.html#a14e34931965064b26e118eb72cbd5e25" title=" " alt="" coords="411,71,572,112"/>
+<area shape="rect" id="node4" href="$classnlohmann_1_1detail_1_1parse__error.html#a137ea4d27de45d8a844fd13451d40f3d" title="create a parse error exception" alt="" coords="620,5,777,47"/>
+<area shape="rect" id="node7" href="$classnlohmann_1_1detail_1_1lexer.html#abf5143501435f9f79898c1ff238c2622" title="return position of last read token" alt="" coords="622,71,775,112"/>
+<area shape="rect" id="node8" href="$classnlohmann_1_1detail_1_1lexer.html#a4aef7e72e539be04e139c34872421f2a" title=" " alt="" coords="622,136,775,177"/>
+<area shape="rect" id="node5" href="$classnlohmann_1_1detail_1_1exception.html#abf41a7e9178356314082284e6cfea278" title=" " alt="" coords="825,5,1007,47"/>
+<area shape="rect" id="node6" href="$namespacenlohmann.html#a6ce645a0b8717757e096a5b5773b7a16" title="user&#45;defined to_string function for JSON values" alt="" coords="1055,13,1191,39"/>
+</map>

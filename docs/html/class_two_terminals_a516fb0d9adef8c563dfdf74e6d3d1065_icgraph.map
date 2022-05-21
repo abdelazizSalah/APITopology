@@ -1,0 +1,5 @@
+<map id="TwoTerminals::getT2" name="TwoTerminals::getT2">
+<area shape="rect" id="node1" title=" " alt="" coords="397,5,539,32"/>
+<area shape="rect" id="node2" href="$class_two_terminals.html#af3853dea12efa35e1318f2790cc6ca77" title="virtual function to be overridden by the inherting classes in which each device can print its propert..." alt="" coords="195,5,349,32"/>
+<area shape="rect" id="node3" href="$class_resistance.html#a8efda3cb40c30b1f4d5d90aa98085633" title="virtual function to be overridden by the inherting classes in which each device can print its propert..." alt="" coords="5,5,147,32"/>
+</map>

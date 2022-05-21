@@ -1,0 +1,8 @@
+<map id="NMOS::printDev" name="NMOS::printDev">
+<area shape="rect" id="node1" title="printing the details of the NMOS" alt="" coords="5,81,120,108"/>
+<area shape="rect" id="node2" href="$class_three_terminals.html#a6287bc155e7e7153403cc9edbe13cf27" title="virtual function to be overridden by the inherting classes in which each device can print its propert..." alt="" coords="168,81,332,108"/>
+<area shape="rect" id="node3" href="$class_three_terminals.html#a557a730917583ab96cf64b79717ccd51" title=" " alt="" coords="380,5,547,32"/>
+<area shape="rect" id="node4" href="$class_three_terminals.html#a561a9f7fc8fc38a2d32f59005f47bb3c" title=" " alt="" coords="381,56,545,83"/>
+<area shape="rect" id="node5" href="$class_three_terminals.html#a608674876d33fa225412e2d4fb9a6cf8" title=" " alt="" coords="385,107,541,133"/>
+<area shape="rect" id="node6" href="$class_device.html#a039b572f22725f96e485650f13f9956c" title="virtual function to be overridden by the inherting classes in which each device can print its propert..." alt="" coords="406,157,521,184"/>
+</map>

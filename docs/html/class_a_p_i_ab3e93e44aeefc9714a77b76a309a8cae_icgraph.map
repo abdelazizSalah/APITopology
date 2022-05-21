@@ -1,0 +1,7 @@
+<map id="API::WriteToJson" name="API::WriteToJson">
+<area shape="rect" id="node1" title="Called when the user want to Write certain topology in a json file." alt="" coords="648,13,771,39"/>
+<area shape="rect" id="node2" href="$class_application_manager.html#a17f1defdb7bb453c18c9087a3f418246" title="Start function is the main loop of the program in which the user choose which function he want to be ..." alt="" coords="104,5,240,47"/>
+<area shape="rect" id="node4" href="$class_testing.html#a4865b3fd164c03be076544368b5f5603" title=" " alt="" coords="472,38,600,65"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="ay hagaa" alt="" coords="5,13,56,39"/>
+<area shape="rect" id="node5" href="$class_application_manager.html#ace25c4437a9f376ae8e5776d8b711872" title="utility function used to print the main screen" alt="" coords="288,35,424,76"/>
+</map>

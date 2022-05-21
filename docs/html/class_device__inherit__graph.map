@@ -1,0 +1,8 @@
+<map id="Device" name="Device">
+<area shape="rect" id="node1" title=" " alt="" coords="169,5,273,361"/>
+<area shape="rect" id="node2" href="$class_three_terminals.html" title=" " alt="" coords="81,409,212,589"/>
+<area shape="rect" id="node5" href="$class_two_terminals.html" title=" " alt="" coords="237,424,358,575"/>
+<area shape="rect" id="node3" href="$class_n_m_o_s.html" title=" " alt="" coords="5,637,93,729"/>
+<area shape="rect" id="node4" href="$class_p_m_o_s.html" title=" " alt="" coords="117,637,205,729"/>
+<area shape="rect" id="node6" href="$class_resistance.html" title=" " alt="" coords="244,637,351,729"/>
+</map>

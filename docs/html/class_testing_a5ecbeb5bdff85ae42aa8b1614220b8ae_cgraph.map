@@ -1,0 +1,9 @@
+<map id="Testing::Testing" name="Testing::Testing">
+<area shape="rect" id="node1" title="Construct a new Testing object in which i read a json file on which i apply all the functionalities." alt="" coords="5,56,120,83"/>
+<area shape="rect" id="node2" href="$class_a_p_i.html#ad2fef47cf932c9f0dcad52dc948dd228" title="Read the Json file and store it in our memory." alt="" coords="168,56,307,83"/>
+<area shape="rect" id="node3" href="$class_a_p_i.html#adcffa686e0c706e130e3254d45dc5eee" title="used by the ReadFromJson function to create a new topology and store the data inside it" alt="" coords="355,56,496,83"/>
+<area shape="rect" id="node4" href="$class_a_p_i.html#a38181f9a892f85db349f4cdc9f6c93a7" title="the following functions are similar to each other as all creates an object from that device,..." alt="" coords="544,56,652,83"/>
+<area shape="rect" id="node5" href="$class_a_p_i.html#a4fe007524ecb58d0bcfd721b9177f1d9" title=" " alt="" coords="704,5,831,32"/>
+<area shape="rect" id="node6" href="$class_a_p_i.html#a2a760b00e8ab1c3aa6cc14354f0231cd" title=" " alt="" coords="704,56,831,83"/>
+<area shape="rect" id="node7" href="$class_a_p_i.html#a9beb83741b21f70d6c4c24f7d622df3f" title=" " alt="" coords="700,107,835,133"/>
+</map>

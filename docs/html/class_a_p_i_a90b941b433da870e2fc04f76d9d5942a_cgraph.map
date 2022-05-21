@@ -1,0 +1,4 @@
+<map id="API::NodeDevices" name="API::NodeDevices">
+<area shape="rect" id="node1" title="look for the devices which are connected to certain node in certain topology" alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node2" href="$class_a_p_i.html#a7a73ecaf115ee6686e73df6f2c983244" title="utility funtion to check whethere certain topology exists in the memory or not" alt="" coords="180,5,295,32"/>
+</map>

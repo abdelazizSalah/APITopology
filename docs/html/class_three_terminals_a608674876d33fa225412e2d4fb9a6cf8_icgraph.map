@@ -1,0 +1,6 @@
+<map id="ThreeTerminals::getSrc" name="ThreeTerminals::getSrc">
+<area shape="rect" id="node1" title=" " alt="" coords="380,31,536,57"/>
+<area shape="rect" id="node2" href="$class_three_terminals.html#a6287bc155e7e7153403cc9edbe13cf27" title="virtual function to be overridden by the inherting classes in which each device can print its propert..." alt="" coords="168,31,332,57"/>
+<area shape="rect" id="node3" href="$class_n_m_o_s.html#a55d320e2d95570f81afdc6bade4179d3" title="printing the details of the NMOS" alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node4" href="$class_p_m_o_s.html#a76b27e508de160184a9bc6893778d73c" title="virtual function to be overridden by the inherting classes in which each device can print its propert..." alt="" coords="5,56,120,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="API::createDev" name="API::createDev">
+<area shape="rect" id="node1" title="the following functions are similar to each other as all creates an object from that device,..." alt="" coords="1024,23,1132,49"/>
+<area shape="rect" id="node2" href="$class_a_p_i.html#adcffa686e0c706e130e3254d45dc5eee" title="used by the ReadFromJson function to create a new topology and store the data inside it" alt="" coords="835,23,976,49"/>
+<area shape="rect" id="node3" href="$class_a_p_i.html#ad2fef47cf932c9f0dcad52dc948dd228" title="Read the Json file and store it in our memory." alt="" coords="648,23,787,49"/>
+<area shape="rect" id="node4" href="$class_application_manager.html#a17f1defdb7bb453c18c9087a3f418246" title="Start function is the main loop of the program in which the user choose which function he want to be ..." alt="" coords="104,15,240,57"/>
+<area shape="rect" id="node6" href="$class_testing.html#a5ecbeb5bdff85ae42aa8b1614220b8ae" title="Construct a new Testing object in which i read a json file on which i apply all the functionalities." alt="" coords="479,23,593,49"/>
+<area shape="rect" id="node7" href="$class_testing.html#a4865b3fd164c03be076544368b5f5603" title=" " alt="" coords="472,73,600,100"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="ay hagaa" alt="" coords="5,23,56,49"/>
+<area shape="rect" id="node8" href="$class_application_manager.html#ace25c4437a9f376ae8e5776d8b711872" title="utility function used to print the main screen" alt="" coords="288,45,424,86"/>
+</map>

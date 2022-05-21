@@ -12,6 +12,10 @@
 #include "ApplicationManager.h"
 using namespace std;
 
+/// <summary>
+/// ay hagaa
+/// </summary>
+/// <returns></returns>
 int main()
 {
 	ApplicationManager AM;
